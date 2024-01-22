@@ -1,4 +1,4 @@
-### Olá! Eu sou o Allan Deyvson 👋
+### Olá! Eu sou Allan Deyvson 👋
 ##
 - 🌐 Graduando Telemática IFPB
 - 👩‍💻 Estudando desenvolvimento web
