@@ -2,7 +2,7 @@
 ##
 - 🌐 Graduando Telemática IFPB
 - 👩‍💻 Estudando desenvolvimento web
-- 📚 Front-end
+- 📚 Full Stack
 
 <div>
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
